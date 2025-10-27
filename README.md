@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>リバーサイドハウス上川町｜賃貸物件情報</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+      color: #222;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #f7f7f7;
+      border-bottom: 2px solid #000;
+      text-align: center;
+      padding: 1.5em 0;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 1.8em;
+      font-weight: bold;
+    }
+    .container {
+      width: 90%;
+      max-width: 800px;
+      margin: 2em auto;
+    }
+    section {
+      border-bottom: 1px solid #ccc;
+      padding: 1em 0;
+    }
+    h2 {
+      font-size: 1.2em;
+      margin-bottom: 0.5em;
+      border-left: 4px solid #000;
+      padding-left: 0.5em;
+    }
+    .photos img {
+      width: 100%;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin-bottom: 1em;
+    }
+    .info-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 1em;
+    }
+    .info-table th, .info-table td {
+      text-align: left;
+      padding: 0.5em;
+      border-bottom: 1px solid #ddd;
+    }
+    .contact {
+      text-align: center;
+      padding: 1.5em 0;
+    }
+    .contact p {
+      margin: 0.3em 0;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.8em;
+      color: #555;
+      padding: 1em 0;
+      background: #f7f7f7;
+      border-top: 1px solid #ccc;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>リバーサイドハウス上川町</h1>
+    <p>東京都八王子市上川町1663-1｜6SDK 109.06㎡</p>
+  </header>
+
+  <div class="container">
+    <section>
+      <h2>物件概要</h2>
+      <table class="info-table">
+        <tr><th>所在地</th><td>東京都八王子市上川町1663-1</td></tr>
+        <tr><th>交通</th><td>JR中央線 西八王子駅 バス33分／バス停徒歩2分</td></tr>
+        <tr><th>家賃</th><td>144,000円</td></tr>
+        <tr><th>共益費・管理費</th><td>なし</td></tr>
+        <tr><th>その他費用</th><td>浄化槽利用料 月額3,410円</td></tr>
+        <tr><th>間取り</th><td>6SDK（109.06㎡）</td></tr>
+        <tr><th>特記事項</th><td>倉庫・車庫・事務所スペースあり</td></tr>
+      </table>
+    </section>
+
+    <section class="photos">
+      <h2>室内・外観写真</h2>
+      <img src="https://placehold.co/800x500?text=室内写真" alt="室内写真">
+      <img src="https://placehold.co/800x500?text=外観写真" alt="外観写真">
+    </section>
+
+    <section>
+      <h2>おすすめポイント</h2>
+      <ul>
+        <li>自然豊でゆっくりした環境が整っている</li>
+        <li>一戸建てでアウトドア、趣味に没頭できる希少な賃貸物件</li>
+        <li>在宅ワークや趣味、用途は様々！広々戸建賃貸で使い方自由自在‼</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>地図</h2>
+      <p><a href="https://maps.google.com/?q=東京都八王子市上川町1663-1" target="_blank">Googleマップで見る</a></p>
+    </section>
+
+    <section class="contact">
+      <h2>お問い合わせ</h2>
+      <p>マネジメント</p>
+      <p>担当：栗原</p>
+      <p>TEL：080-1234-1234</p>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; マネジメント 不動産部門</p>
+  </footer>
+</body>
+</html>
