@@ -95,7 +95,7 @@
 <section>
   <h2>間取り図</h2>
   <div class="photos">
-    <img src="Images/layout.jpg" alt="layout.jpg">
+    <img src="https://theredocs.com/public/assets/img/updata/69e5e4fb52c092.27817651.jpg">
   </div>
 </section>
 
