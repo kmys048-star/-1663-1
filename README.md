@@ -83,7 +83,7 @@
 
 <section>
   <h2>外観・写真</h2>
-  <div class="リバサ上川資料">
+  <div class="photos">
     <img src="Images" alt="gaikan1.jpg">
     <img src="Images/gaikan2.jpg" alt="gaikan2.jpg">
   </div>
@@ -91,7 +91,7 @@
 
 <section>
   <h2>間取り図</h2>
-  <div class="リバサ上川資料">
+  <div class="photos">
     <img src="Images/layout.jpg" alt="layout.jpg">
   </div>
 </section>
