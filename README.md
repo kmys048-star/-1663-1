@@ -84,7 +84,7 @@
 <section>
   <h2>外観・写真</h2>
   <div class="photos">
-    <img src="images/gaikan1.jpg" alt="gaikan1.jpg">
+    <img src="images/" alt="gaikan1.jpg">
     <img src="images/gaikan2.jpg" alt="gaikan2.jpg">
   </div>
 </section>
