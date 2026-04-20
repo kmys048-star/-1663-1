@@ -91,7 +91,7 @@
 
 <section>
   <h2>間取り図</h2>
-  <div class="photos">
+  <div class="リバサ上川資料">
     <img src="Images/layout.jpg" alt="layout.jpg">
   </div>
 </section>
