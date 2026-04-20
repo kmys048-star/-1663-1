@@ -85,8 +85,10 @@
   <h2>外観・写真</h2>
   <div class="photos">
 　　<img src="https://theredocs.com/public/assets/img/updata/69dca9293c5079.43241609.jpg" >
-    <img src="Images" alt="gaikan1.jpg">
-    <img src="Images/gaikan2.jpg" alt="gaikan2.jpg">
+   <img src="https://theredocs.com/public/assets/img/updata/69e5e38cbb2798.08277166.jpg" >
+    <img src="https://theredocs.com/public/assets/img/updata/69e5e38cc008f7.83847462.jpg" >
+    <img src="https://theredocs.com/public/assets/img/updata/69e5e38cc4a5f1.84220896.jpg">
+    <img src="https://theredocs.com/public/assets/img/updata/69e5e38cc4c958.29878851.jpg">
   </div>
 </section>
 
