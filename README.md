@@ -89,7 +89,7 @@
     <img src="https://theredocs.com/public/assets/img/updata/69e5e38cc008f7.83847462.jpg" >
     <img src="https://theredocs.com/public/assets/img/updata/69e5e38cc4a5f1.84220896.jpg">
     <img src="https://theredocs.com/public/assets/img/updata/69e5e38cc4c958.29878851.jpg">
-  　<img　src="https://theredocs.com/public/assets/img/updata/69e73325927020.61278516.jpg">
+  　<img src="https://theredocs.com/public/assets/img/updata/69e73325927020.61278516.jpg">
   </div>
 </section>
 
